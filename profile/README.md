@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<strong>QNTX builds open-source AI + Web3 infrastructure.</strong>
+<strong>We build open-source AI + Web3 infrastructure.</strong>
 </p>
 
 <p align="center">
