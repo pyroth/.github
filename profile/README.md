@@ -3,15 +3,12 @@
 <img src="./qntx_transparent.png" alt="QNTX" width="200" height="auto" />
 </a>
 </p>
-
 <p align="center">
-<strong>We build open-source AI + Web3 infrastructure.</strong>
+<strong>Building the economic layer for autonomous AI agents.</strong>
 </p>
-
 <p align="center">
-<strong>Building at the convergence of Artificial Intelligence and Web3 — where autonomous minds meet decentralized worlds.</strong>
+Open protocols for AI agents to transact, collaborate, and evolve on-chain.
 </p>
-
 <p align="center">
-<em>AI reasons. Blockchain verifies. We fuse both.</em>
+<em>Agents earn. Agents pay. Agents scale.</em>
 </p>
