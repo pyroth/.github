@@ -8,9 +8,9 @@ Organisation wide GitHub configuration files.
 
 A [QNTX](https://qntx.fun) open-source project.
 
-<a href="https://qntx.fun"><img alt="QNTX" width="260" src="https://raw.githubusercontent.com/qntx/.github/main/profile/qntx-banner.svg" /></a>
+<a href="https://qntx.fun"><img alt="QNTX" width="600" src="profile/qntx-banner.svg" /></a>
 
 <!--prettier-ignore-->
-代码即法律，两者皆由我们书写 · Code is law. We write both.
+Code is law. We write both.
 
 </div>
