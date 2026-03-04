@@ -1,12 +1,21 @@
-# Security Policy
+# Security
+
+## Disclaimer
+
+> [!CAUTION]
+> **This software has NOT been audited by any independent security firm.**
+
+This library interacts with blockchain networks and processes real financial transactions. Bugs or vulnerabilities **may result in irreversible loss of funds**.
+
+- **No warranty.** Provided "AS IS" without warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, and non-infringement.
+- **Unaudited.** The codebase has not undergone a formal security audit. Undiscovered vulnerabilities may exist despite extensive testing and strict linting.
+- **Use at your own risk.** The authors and contributors accept no responsibility for financial losses, damages, or other liabilities arising from the use of this software.
+- **Testnet first.** Always validate on testnets before deploying to mainnet.
+- **Key management.** Users are solely responsible for the secure handling of private keys and signing credentials.
 
 ## Supported Versions
 
 Only the latest version receives security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| latest  | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
